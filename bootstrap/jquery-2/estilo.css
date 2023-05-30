@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+    margin: 0 ;z-index: ;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+
+}
+.menu{
+    margin: 50px;
+    cursor: pointer;
+}
+ul{
+    border: 1px solid;
+    width: 100px;
+    position: fixed;
+    right: 20px;
+    top: 105px;
+}
+li{
+    list-style: none;
+    margin-top: 10p ;
+    cursor: pointer;
+}

@@ -1,0 +1,23 @@
+body{
+    font-size: 18px;
+    display: flex;
+    flex-direction: column ;
+}
+.ex1{
+    width: 460px;
+    padding: 20px;
+    background-color: blue;
+    margin: 0 auto;
+    text-align: center;
+    color: rgb(230, 4, 4);
+}
+input{
+    width: 480px;
+    padding: 5px;
+    background-color: black;
+    margin: 0 auto;
+    text-align: center;
+    color: aqua;
+    border: 5px solid #ccc;
+    margin-top: 10px;
+}
